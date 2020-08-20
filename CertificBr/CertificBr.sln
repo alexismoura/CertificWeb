@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CertificBr", "CertificBr.csproj", "{80FC0240-7A30-4F97-ABF1-1A7BF4174AD7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CertificBr.Data", "..\CertificBr.Data\CertificBr.Data.csproj", "{DBEC1306-4484-493E-941D-805F4D0DC823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorClass", "..\GeradorClass\GeradorClass.csproj", "{6D4CF7A0-000E-43D6-A687-F49C1BAE0ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80FC0240-7A30-4F97-ABF1-1A7BF4174AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80FC0240-7A30-4F97-ABF1-1A7BF4174AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80FC0240-7A30-4F97-ABF1-1A7BF4174AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80FC0240-7A30-4F97-ABF1-1A7BF4174AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBEC1306-4484-493E-941D-805F4D0DC823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBEC1306-4484-493E-941D-805F4D0DC823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBEC1306-4484-493E-941D-805F4D0DC823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBEC1306-4484-493E-941D-805F4D0DC823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4CF7A0-000E-43D6-A687-F49C1BAE0ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4CF7A0-000E-43D6-A687-F49C1BAE0ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4CF7A0-000E-43D6-A687-F49C1BAE0ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4CF7A0-000E-43D6-A687-F49C1BAE0ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4E8538-192C-4A2D-85BC-D76ADE315364}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://alexismoura.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CertificBr.csproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\CertificBr.Data\\CertificBr.Data.csproj
+		SccProjectName2 = ../CertificBr.Data
+		SccLocalPath2 = ..\\CertificBr.Data
+		SccProjectUniqueName3 = ..\\GeradorClass\\GeradorClass.csproj
+		SccProjectName3 = ../GeradorClass
+		SccLocalPath3 = ..\\GeradorClass
+	EndGlobalSection
+EndGlobal

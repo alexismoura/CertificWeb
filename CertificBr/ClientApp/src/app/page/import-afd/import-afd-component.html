@@ -1,0 +1,37 @@
+<div id="main-content" class="column">
+  <div class="bloco-conteudo-padrao">
+    <h1>Importação arquivo AFD</h1>
+
+    <fieldset>
+      <div class="campos-form">
+
+        <div id="container-content">
+          <div class="row">
+            <div class="col-md-6 offset-md-3">
+              <h3>Selecione o arquivo</h3>
+              <div class="form-group">
+                <input type="file"
+                       id="file"
+                       (change)="handleFileInput($event.target.files)">
+              </div>
+              <div *ngIf="fileUploadProgress">
+                Upload progress: {{ fileUploadProgress }}
+              </div>
+              <div class="image-preview mb-3" *ngIf="previewUrl">
+                <img [src]="previewUrl" height="300" />
+              </div>
+
+              <div class="mb-3" *ngIf="uploadedFilePath">
+                {{uploadedFilePath}}
+              </div>
+
+              <div class="form-group">
+                <button class="btn btn-primary" (click)="onSubmit()">{{text}}</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </fieldset>
+  </div>
+</div>

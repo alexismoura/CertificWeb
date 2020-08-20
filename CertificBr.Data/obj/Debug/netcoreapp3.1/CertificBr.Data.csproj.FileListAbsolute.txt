@@ -1,0 +1,12 @@
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\bin\Debug\netcoreapp3.1\CertificBr.Data.deps.json
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\bin\Debug\netcoreapp3.1\CertificBr.Data.runtimeconfig.json
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\bin\Debug\netcoreapp3.1\CertificBr.Data.runtimeconfig.dev.json
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\bin\Debug\netcoreapp3.1\CertificBr.Data.dll
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\bin\Debug\netcoreapp3.1\CertificBr.Data.pdb
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.csprojAssemblyReference.cache
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.csproj.CoreCompileInputs.cache
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.AssemblyInfoInputs.cache
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.AssemblyInfo.cs
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.dll
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.pdb
+E:\PROJETO\C_Sharp\CertificBr\CertificBr.Data\obj\Debug\netcoreapp3.1\CertificBr.Data.genruntimeconfig.cache
